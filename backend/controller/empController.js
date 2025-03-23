@@ -1,4 +1,4 @@
-const Emp= require("../model/emp");
+const Emp= require("../model/emp.js");
 
 //Create Emp
 exports.createEmp= async(req,res) =>{
